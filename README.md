@@ -25,7 +25,7 @@
 -->
 
 
-<h3 align="left">Skills: <br>| Java | Selenium | JUnit | TestNG | Cucumber | Git - GitHub |<br>| Html - Css | JIRA | PostgreSQL | LAMBDA | JDBC | API | Python | </h3>
+<h3 align="left">Skills: <br>| Java | Selenium | JUnit | TestNG | cucumber | Git - GitHub |<br>| Html - Css | JIRA | PostgreSQL | Lambda | JDBC | API | Python | </h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 <h3 align="left">Languages and Tools:</h3>
 </a> 
