@@ -33,8 +33,8 @@ I've experienced in the framework of SDLC in addition to analyzing of the manual
   <a href="https://twitter.com/atinc_cihad"><img src="https://img.shields.io/badge/twitter-%23333?style=for-the-badge&logo=twitter&logoColor=#00aced"/></a>
 </div>
  
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
 <!-- 
@@ -64,7 +64,6 @@ jobs:
           git push
 -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atinccihad&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br/> 
 
 
 
