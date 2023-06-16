@@ -1,22 +1,21 @@
 <!-- count -->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23495AA6&title_bg=%23555555&icon=opencontainersinitiative.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>
 
-<p align="left"><img src="https://i.imgur.com/A6bWGFl.gif" width="350"/>
+<p align="left"><img src="https://i.imgur.com/A6bWGFl.gif" width="130" align="center"/>
  
  <img src="https://komarev.com/ghpvc/?username=atinccihad&&style=plastics&&color=gray" align="right"/></p>
  <!-- Coder Uncle Pic -->
- <div id="header" align="left">
- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350"/>
+ <div id="header" align="left" > <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="140" align="right"/>
 
-<!-- %7C -> alttaki yaziya eklemenize yariyor -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Cihad+ATINC+profile%7C)
+<!-- %7C -> alttaki yaziya eklemenize yariyor %CC00FF-->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=&lines=Welcome+Cihad+ATINC+profile%7C)
 
 <!-- yorum satiri-->
 <h2 dir="auto"><a id="user-content-necktie-about-me" class="anchor" aria-hidden="true" href="#necktie-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
 
-### </path></svg></a> About Me ✅ 
+ ### </path></svg></a> About Me ✅ 
 I'm interested in manual, automation, and API testing.
-I've experienced in the framework of SDLC in addition to analyzing of the manual and automation test processes within the STLC logic, creating the test processes in line with the requirements, assigning the results to the relevant team member as explanatory reports, and contributing to the project to increase the product quality. I'm open to learning new technologies like cloud systems and AI-based automation for workloads that need to be safe and quick.
+I have experience within the framework of SDLC as well as analyzing test processes within the logic of STLC, creating test processes in line with needs, assigning the results to the relevant team member as explanatory reports and contributing. I am open to learning new technologies such as cloud systems and AI-based automation systems for workloads that need to be secure and fast.
  ## </path></svg></a> Skills ✅
 | Java | Selenium | JUnit | TestNG | cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | Lambda | JDBC | API | Python | </h4>
  <br>
