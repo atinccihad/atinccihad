@@ -1,12 +1,12 @@
 <!-- count -->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23495AA6&title_bg=%23555555&icon=opencontainersinitiative.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>
 
-<p align="left"><img src="https://i.imgur.com/A6bWGFl.gif" width="200"/>
+<p align="left"><img src="https://i.imgur.com/A6bWGFl.gif" width="350"/>
  
- <img src="https://komarev.com/ghpvc/?username=atinccihad&&style=plastics&&color=blue" align="right"/></p>
+ <img src="https://komarev.com/ghpvc/?username=atinccihad&&style=plastics&&color=gray" align="right"/></p>
  <!-- Coder Uncle Pic -->
  <div id="header" align="left">
- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200"/>
+ <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350"/>
 
 <!-- %7C -> alttaki yaziya eklemenize yariyor -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Cihad+ATINC+profile%7C)
@@ -17,27 +17,35 @@
 ### </path></svg></a> About Me ✅ 
 I'm interested in manual, automation, and API testing.
 I've experienced in the framework of SDLC in addition to analyzing of the manual and automation test processes within the STLC logic, creating the test processes in line with the requirements, assigning the results to the relevant team member as explanatory reports, and contributing to the project to increase the product quality. I'm open to learning new technologies like cloud systems and AI-based automation for workloads that need to be safe and quick.
-<h4 align="left">Skills: <br>| Java | Selenium | JUnit | TestNG | cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | Lambda | JDBC | API | Python | </h4>
+ ## </path></svg></a> Skills ✅
+| Java | Selenium | JUnit | TestNG | cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | Lambda | JDBC | API | Python | </h4>
  <br>
  
  ## </path></svg></a> Languages and Tools ✅ </a> 
  
- <a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> 
+ <a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="70" height="70"/> 
  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="50" height="50"/></a></p>
- <br>
  
- <div align="left"> 
-  <a href="https://www.linkedin.com/in/atinccihad/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
+  ## </path></svg></a> Mail ✅ </a>
   <a href = "mailto:atinccihad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank"></a>
-  <a href="https://medium.com/@atinccihad"><img src="https://img.shields.io/badge/Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/></a>
-  <a href="https://twitter.com/atinc_cihad"><img src="https://img.shields.io/badge/twitter-%23333?style=for-the-badge&logo=twitter&logoColor=#00aced"/></a>
-</div>
- 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
- 
+  
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
-<!-- 
+
+
+
+
+
+
+
+
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+
+
+
+<!--
 name: GitHub-Profile-3D-Contrib
 
 on:
@@ -62,12 +70,21 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+
 -->
 
 
 
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/atinccihad)
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   ## 🌐 Socials:
