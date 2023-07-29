@@ -3,7 +3,6 @@
 <!-- count -->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23495AA6&title_bg=%23555555&icon=opencontainersinitiative.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=atinccihad&&style=plastics&&color=gray" align="right"/></p>
 
 <!-- Coder Uncle Pic -->
 <div id="header" align="left" > <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="130" align="right"/>
@@ -11,10 +10,7 @@
 ## </path></svg></a> Welcome to my profile ✅ </a> 
 
 <!-- %7C -> alttaki yaziya eklemenize yariyor %CC00FF-->
-<!--![Typing SVG](https://readme-typing-svg.herokuapp.com?color=&lines=Welcome+to+my+profile+%F0%9F%91%8B+%7C)-->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7C529&width=435&lines=I'm+interested+in;manual,+automation+and+API+testing.)](https://git.io/typing-svg)
-
 
 <!-- yorum satiri-->
 <h2 dir="auto"><a id="user-content-necktie-about-me" class="anchor" aria-hidden="true" href="#necktie-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
@@ -42,3 +38,6 @@
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <br> 
+
+<img src="https://komarev.com/ghpvc/?username=atinccihad&&style=plastics&&color=gray" align="right"/></p>
+
