@@ -11,8 +11,6 @@
 <!-- %7C -> alttaki yaziya eklemenize yariyor %CC00FF-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7C529&width=435&lines=I'm+interested+in,;testing+for+user+interface+and;backend+software.)](https://git.io/typing-svg)
 
-
-
 ## </path></svg></a> Skills ✅
 | Java | Selenium | JUnit | TestNG | cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | Lambda | JDBC | API | Python | </h4>
 <br>
@@ -34,4 +32,3 @@
 <br> 
 
 <img src="https://komarev.com/ghpvc/?username=atinccihad&&style=plastics&&color=gray" align="right"/></p>
-
