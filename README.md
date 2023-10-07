@@ -12,7 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7C529&width=435&lines=I'm+interested+in,;testing+for+user+interface+and;backend+software.)](https://git.io/typing-svg)
 
 ## </path></svg></a> Skills ✅
-<h4> |Java|Lambda|Selenium|Selenide|API|HTML-CSS|JS|SQL|Python|Appium| </h4>
+<h4> | Java | Lambda | Selenium WebDriver | TestNG | JUnit | cucumber BDD | Selenide | Appium | Android Studio | Postman | Jenkins | <br> | Jira - Jira Xray | API - RestAssured Libraries | JDBC | JMeter | Git - GitHub | HTML-CSS | JavaScript | SQL | Python | SDLC | STLC | </h4>
 <br>
  
 ## </path></svg></a> Languages and Tools ✅ </a> 
@@ -22,12 +22,11 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/><a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://blog.e-zest.com/hubfs/Capture-4.png" alt="jmeter" width="50" height="50"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> </a> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="50" height="50"/></a></p>
-
+<br>
 ## </path></svg></a> Mail ✅ </a>
 <a href = "mailto:atinccihad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<br> 
-
-## 🌐 Socials:
+<br> <br>
+## 🌐 Socials ✅
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atinccihad)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@atinccihad) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/atinc_cihad)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/atinccihad) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Cihad-ATINÇ) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/atinccihad)  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/atinccihad) 
 <br> 
 
