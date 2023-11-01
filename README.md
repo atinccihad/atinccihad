@@ -15,30 +15,39 @@
 <h4 style="color: F7C529"> |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Selenium WebDriver&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TestNG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;JUnit&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;cucumber BDD&nbsp;&nbsp;|&nbsp;&nbsp;Selenide&nbsp&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Appium&nbsp;&nbsp;&nbsp;| Android Studio|<br> 
     |&nbsp;&nbsp;&nbsp;Lambda&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jira - Jira Xray&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| API - RestAssured Libraries |&nbsp;&nbsp;&nbsp;JDBC&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JMeter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Postman&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Jenkins&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Git - &nbsp;GitHub&nbsp;&nbsp;&nbsp;|<br>|&nbsp;HTML-CSS&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Python&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SDLC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STLC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| </h4>
 <br>
- 
-## </path></svg></a> Languages and Tools ✅ </a> 
-<a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
-<a target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png" alt="css3" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*qwaNpZPJElwizsCYXR8TOg.png" alt="css3" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2019/11/Appium-1.png?w=1230&ssl=1" alt="css3" width="40" height="40"/> </a>
-<a href="https://tr.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://tr.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><a href="[https://www.w3schools.com/html/](https://tr.wikipedia.org/wiki/HTML)" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://tr.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/225px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://blog.e-zest.com/hubfs/Capture-4.png" alt="jmeter" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="40" height="40"/> </a> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="40" height="40"/></a> 
-<img src="https://logowik.com/content/uploads/images/jetbrains-pycharm5998.jpg" alt="PyCharm" width="40" height="40"/></a> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/></a>
- <a target="_blank" rel="noreferrer"> <img src="https://robotqa.com/img/100x100/appiuminspectorlogo.png" alt="css3" width="40" height="40"/> </a>
- </p>
+
+## </path></svg></a> Technologies That I Know👨🏻‍💻  ✅
+  <div align="center">
+    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
+    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code>
+	<code><img width="50" src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png" alt="TestNG" title="TestNG"/></code>
+    <code><img width="50" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*qwaNpZPJElwizsCYXR8TOg.png" alt="JUnit" title="JUnit"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="TestNG" title="TestNG"/></code>
+    <code><img width="50" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2019/11/Appium-1.png?w=1230&ssl=1" alt="Appium" title="Appium"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
+    <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML"/></code>
+    <code><img width="50" src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="CSS" title="CSS"/></code>
+    <code><img width="50" src="https://blog.e-zest.com/hubfs/Capture-4.png" alt="CSS" title="CSS"/></code>
+    <code><img width="50" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" title="eclipse"/></code>
+    <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ_IDEA" title="IntelliJ_IDEA"/></code>
+    <code><img width="50" src="https://logowik.com/content/uploads/images/jetbrains-pycharm5998.jpg" alt="PyCharm" title="PyCharm"/></code>
+    <code><img width="50" src="https://robotqa.com/img/100x100/appiuminspectorlogo.png" alt="Appium Inspector" title="Appium Inspector"/></code>
+</div>
+</div>
+<!--tech stack icons-->
 <br>
 
 ## </path></svg></a> Mail ✅ </a>
