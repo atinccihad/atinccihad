@@ -24,7 +24,8 @@
 	<code><img width="50" src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png" alt="TestNG" title="TestNG"/></code>
     <code><img width="50" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*qwaNpZPJElwizsCYXR8TOg.png" alt="JUnit" title="JUnit"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="TestNG" title="TestNG"/></code>
-    <code><img width="50" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2019/11/Appium-1.png?w=1230&ssl=1" alt="Appium" title="Appium"/></code>
+        <code><img width="50" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2019/11/Appium-1.png?w=1230&ssl=1" alt="Appium" title="Appium"/></code>
+        <code><img width="50" src="https://545767148-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MdBdUMSCcMYTyNwZf80%2Fuploads%2Fgit-blob-ab20647cc42dc5c7aca945bf707ada6cd368c2d5%2Fcypress.png?alt=media" alt="Cypress"title="Cypress"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
