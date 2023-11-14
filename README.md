@@ -22,8 +22,9 @@
     <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code>
 	<code><img width="50" src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png" alt="TestNG" title="TestNG"/></code>
-    <code><img width="50" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*qwaNpZPJElwizsCYXR8TOg.png" alt="JUnit" title="JUnit"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="TestNG" title="TestNG"/></code>
+        <code><img width="50" src="https://user-images.githubusercontent.com/33158051/103466459-7524de80-4d13-11eb-96ba-f13e5409a18a.png" alt="JUnit" title="JUnit"/></code>
+	<code><img width="50" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*qwaNpZPJElwizsCYXR8TOg.png" alt="cucumber" title="cucumber"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
         <code><img width="50" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2019/11/Appium-1.png?w=1230&ssl=1" alt="Appium" title="Appium"/></code>
         <code><img width="50" src="https://545767148-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MdBdUMSCcMYTyNwZf80%2Fuploads%2Fgit-blob-ab20647cc42dc5c7aca945bf707ada6cd368c2d5%2Fcypress.png?alt=media" alt="Cypress"title="Cypress"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/></code>
@@ -39,13 +40,13 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
-    <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML"/></code>
-    <code><img width="50" src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="CSS" title="CSS"/></code>
-    <code><img width="50" src="https://blog.e-zest.com/hubfs/Capture-4.png" alt="CSS" title="CSS"/></code>
-    <code><img width="50" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" title="eclipse"/></code>
-    <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ_IDEA" title="IntelliJ_IDEA"/></code>
-    <code><img width="50" src="https://logowik.com/content/uploads/images/jetbrains-pycharm5998.jpg" alt="PyCharm" title="PyCharm"/></code>
-    <code><img width="50" src="https://robotqa.com/img/100x100/appiuminspectorlogo.png" alt="Appium Inspector" title="Appium Inspector"/></code>
+        <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML"/></code>
+        <code><img width="50" src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="CSS" title="CSS"/></code>
+        <code><img width="50" src="https://blog.e-zest.com/hubfs/Capture-4.png" alt="CSS" title="CSS"/></code>
+        <code><img width="50" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" title="eclipse"/></code>
+        <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ_IDEA" title="IntelliJ_IDEA"/></code>
+        <code><img width="50" src="https://logowik.com/content/uploads/images/jetbrains-pycharm5998.jpg" alt="PyCharm" title="PyCharm"/></code>
+        <code><img width="50" src="https://robotqa.com/img/100x100/appiuminspectorlogo.png" alt="Appium Inspector" title="Appium Inspector"/></code>
 </div>
 </div>
 <!--tech stack icons-->
